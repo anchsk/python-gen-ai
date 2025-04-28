@@ -17,4 +17,4 @@ python3 image_captioning_app.py
 image_captioning_app.py
 This app takes an image as input and generates a caption for it using a pre-trained image captioning model (BLIP). The interface is made with Gradio.
 
-![app_screenshot](app_screenshot.png)
+![app_screenshot](image_captioning/app_screenshot.png)
