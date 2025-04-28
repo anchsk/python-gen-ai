@@ -19,3 +19,12 @@ This app takes an image as input and generates a caption for it using a pre-trai
 
 ![app_screenshot_interface](image_captioning/app_screenshot_interface.png)
 ![app_screenshot](image_captioning/app_screenshot.png)
+
+# Url captioner
+
+Takes the url of a webpage and generate a list of image urls or local paths with captions.
+```bash
+cd url_captioner
+python3 automate_url_captioner.py
+python3 local_captioner.py
+```
