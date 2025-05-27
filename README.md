@@ -1,6 +1,6 @@
 # Generative AI Course Tasks
 
-use Python 3.11.9
+use Python 3.11.9 (or 3.10.14)
 
 Create a .venv and point it to a Python 3.11.9 installation
 
