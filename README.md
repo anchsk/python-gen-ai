@@ -1,5 +1,7 @@
 # Generative AI Course Tasks
 
+Course projects with Python: an image captioning app (BLIP model, Gradio interface), a tool that captions every image on a given web page, and a chat app.
+
 use Python 3.11.9 (or 3.10.14)
 
 Create a .venv and point it to a Python 3.11.9 installation
